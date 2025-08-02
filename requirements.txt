@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai>=1.0.0
+requests
+beautifulsoup4
+python-dotenv
+certifi
