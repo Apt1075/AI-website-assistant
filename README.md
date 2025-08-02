@@ -55,8 +55,9 @@ This is a FastAPI-based AI assistant that reads content from any website and ans
     }
 
 7. **📁 File Structure**    
-    ai-website-assistant/
-├── main.py              # FastAPI app
-├── .env                 # OpenAI API key
-├── requirements.txt     # Python dependencies
-├── README.md            # Project documentation
+ai-website-assistant/
+    │
+    ├── main.py              # FastAPI app
+    ├── .env                 # OpenAI API key
+    ├── requirements.txt     # Python dependencies
+    ├── README.md            # Project documentation
